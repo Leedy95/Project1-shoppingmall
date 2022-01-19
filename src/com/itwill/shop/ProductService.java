@@ -5,4 +5,12 @@ public class ProductService {
 	public ProductService() {
 		productDao=new ProductDao();
 	}
+	public void selectAll() {
+		
+	}
+	public void selectByPK() {
+		
+	}
+	public void insert(){
+	}
 }
